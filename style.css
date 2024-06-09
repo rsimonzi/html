@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(201, 101, 181);
+    font-family: Arial;
+    font-size: 20px;
+    padding: 50px;
+}
+
+#form-name h2 {
+    color: olivedrab;
+}
+
+a {
+    background-color: yellowgreen;
+}
+
+h1 {
+    font-size: 40px;
+    margin-bottom: 25px;
+}
+
+h2 {
+    text-align: center;
+}
+
+input,
+button {
+    font-size: 16px;
+    padding: 10px;
+}
+
+.first {
+    color: red;
+}
+
+#form-name {
+    background-color: pink;
+    border: 5px solid #444;
+    padding: 10px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#course-image {
+    max-width: 100px;
+    max-height: 100px;
+}
